@@ -1,3 +1,10 @@
+// Pattern to print:
+
+// *
+// **
+// ***
+// ****
+
 #include<iostream>
 using namespace std;
 

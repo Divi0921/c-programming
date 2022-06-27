@@ -1,3 +1,10 @@
+// Pattern to print:
+
+// 1234
+// 1234
+// 1234
+// 1234
+
 #include<iostream>
 using namespace std;
 

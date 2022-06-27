@@ -1,3 +1,10 @@
+// Pattern to print:
+// A B C 
+// B C D 
+// C D E 
+
+
+
 #include<iostream>
 using namespace std;
 
